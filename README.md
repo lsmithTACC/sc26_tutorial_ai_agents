@@ -40,10 +40,10 @@ Other software dependencies:
     * [Official Install Instructions](https://docs.astral.sh/uv/getting-started/installation/)
 
 3. Install Python 3.12
-    * `uv venv --python 3.12 pearc26_tutorial`
+    * `uv venv --python 3.12 sc26_tutorial`
 
 4. Activate python environment
-    * `source pearc26_tutorial/bin/activate`
+    * `source sc26_tutorial/bin/activate`
 
 5. Install package dependencies (requirements.txt)
     * `uv pip install -r requirements.txt`
